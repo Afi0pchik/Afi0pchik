@@ -34,4 +34,3 @@
 
 - 💼 **Discord:** `amfibichik`  
 - ✉️ **Telegram:** `@Afi0dev`  
-- 🌐 **GitHub / Portfolio / CV:** *(добавь ссылку при желании)*
