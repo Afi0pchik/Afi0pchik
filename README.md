@@ -32,5 +32,5 @@
 
 📬 **Connect With Me**
 
-- 💼 **Discord:** `amfibichik`  
+- 💼 **Discord:** `afi0pchik`  
 - ✉️ **Telegram:** `@Afi0dev`  
