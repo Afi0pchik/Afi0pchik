@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hey, I'm Afi0
 
-<!--
-**Afi0pchik/Afi0pchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Offensive Security Enthusiast | 🛠️ Ethical Hacker | 🧠 Always Learning  
+📍 Based in Ukraine | 🌐 Open to remote security work
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **What I Do**
+
+- 🔍 Web and network penetration testing  
+- 🧪 Vulnerability research  
+- 🐚 Shells, reverse shells, and custom payload crafting  
+- 👣 Privilege escalation  
+- 🧠 Mental models from real-world and CTF environments
+
+---
+
+🧰 **Tools & Skills**
+
+**Languages:** Java, Kotlin, Python, Bash, SQL, Assembler  
+**Skills:** Social Engineering | Reverse Engineering | PWN | Web Security | Minecraft Development (Spigot & Fabric API) | OWASP TOP 10 | Arduino | Android Reverse Engineering (Preloader, BROM, EMMC/NAND)
+
+---
+
+🧠 **Learning & Focus**
+
+- 🧬 Reverse engineering & malware behavior  
+- 🧰 Red team tactics and social engineering  
+- 🔐 Wireless and physical security
+
+---
+
+📬 **Connect With Me**
+
+- 💼 **Discord:** `amfibichik`  
+- ✉️ **Telegram:** `@Afi0dev`  
+- 🌐 **GitHub / Portfolio / CV:** *(добавь ссылку при желании)*
