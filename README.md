@@ -10,7 +10,7 @@
 - 🔍 Web and network penetration testing  
 - 🧪 Vulnerability research  
 - 🐚 Shells, reverse shells, and custom payload crafting  
-- 👣 Privilege escalation  
+- 👣 Hardware Hacking
 - 🧠 Mental models from real-world and CTF environments
 
 ---
@@ -18,7 +18,7 @@
 🧰 **Tools & Skills**
 
 **Languages:** Java, Kotlin, Python, Bash, SQL, Assembler  
-**Skills:** Social Engineering | Reverse Engineering | PWN | Web Security | Minecraft Development (Spigot & Fabric API) | OWASP TOP 10 | Arduino | Android Reverse Engineering (Preloader, BROM, EMMC/NAND)
+**Skills:** Social Engineering | Reverse Engineering | PWN | Web Security | Minecraft Development (Spigot & Fabric API) | OWASP TOP 10 | Arduino | Android Reverse Engineering (Preloader, BROM, EMMC/NAND) | HARDWARE HACKING | API TESTING
 
 ---
 
@@ -33,4 +33,5 @@
 📬 **Connect With Me**
 
 - 💼 **Discord:** `afi0pchik`  
-- ✉️ **Telegram:** `@Afi0dev`  
+- ✉️ **Telegram:** `@Afi0dev`
+- 🪙 **USDT(TON)** 'UQAjxuaO5wCyqIdKkOG2l0nJZ72U_PkNqmUEgU5OLLqBrEKl'
