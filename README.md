@@ -34,4 +34,4 @@
 
 - 💼 **Discord:** `afi0pchik`  
 - ✉️ **Telegram:** `@Afi0dev`
-- 🪙 **USDT(TON)** 'UQAjxuaO5wCyqIdKkOG2l0nJZ72U_PkNqmUEgU5OLLqBrEKl'
+- 🪙 **USDT(TON)** `UQAjxuaO5wCyqIdKkOG2l0nJZ72U_PkNqmUEgU5OLLqBrEKl`
