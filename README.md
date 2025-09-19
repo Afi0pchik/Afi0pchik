@@ -9,24 +9,24 @@
 
 - `Web and network penetration testing`  
 - `Vulnerability research`  
-- `Shells, reverse shells, and custom payload crafting`  
+- `Bug Hunting`  
 - `Hardware Hacking`
-- `Mental models from real-world and CTF environments`
+- `IoT Security`
 
 ---
 
 **Tools & Skills**
 
-**Languages:** `JAVA, KOTLIN, PYTHON, BASH, SQL, ASSEMBLER LANGUAGE`  
-**Skills:** `SOCIAL ENGINEERING | REVERSE ENGINEERING | PWN | WEB SECURITY | MINECRAFT DEVELOPMENT | OWASP TOP 10 | ARDUINO | ANDROID PENTEST | HARDWARE HACKING | API TESTING`
+**Languages:** `JAVA, KOTLIN, PYTHON, BASH, SQL, ASSEMBLER LANGUAGE, C, C++`  
+**Skills:** `SOCIAL ENGINEERING | REVERSE ENGINEERING | BINARY EXPLOATATION  | ARM SECURITY | WEB SECURITY | MINECRAFT DEVELOPMENT | WEB SECURITY | ARDUINO | ANDROID PENTEST | HARDWARE HACKING | PENETRATION TESTING`
 
 ---
 
 **Learning & Focus**
 
 - `Reverse engineering & malware behavior`  
-- `Red team tactics and social engineering`  
-- `Wireless and physical security`
+- `Web Security & Bug Bounty`  
+- `Hardware & low-level security`
 
 ---
 
